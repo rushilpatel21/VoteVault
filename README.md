@@ -1,4 +1,4 @@
-# Voting System  
+# VoteVault
 
 ## Description  
 This project is a **Java-based Voting System** built using advanced Java concepts, Swing for the user interface, and MySQL for backend database operations. It provides functionalities for both **Admin** and **Voter** roles, allowing seamless management of elections, candidates, regions, and voting processes.  
